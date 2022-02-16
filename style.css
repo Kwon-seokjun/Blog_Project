@@ -3,6 +3,11 @@
     padding: 0;
 }
 
+
+body {
+    overflow-x: hidden;
+}
+
 audio {
     width: 200px;
     height: 20px;
